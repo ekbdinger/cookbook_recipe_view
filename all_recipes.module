@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the all_recipes feature.
+ */
+
+include_once 'all_recipes.features.inc';
