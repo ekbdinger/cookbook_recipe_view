@@ -2,6 +2,7 @@ name = all_recipes
 description = My custom view of recipes
 core = 7.x
 package = Views
+php = 5.2.4
 dependencies[] = ctools
 dependencies[] = views
 features[ctools][] = views:views_default:3.0
